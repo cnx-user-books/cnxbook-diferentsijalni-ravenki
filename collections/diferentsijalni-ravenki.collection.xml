@@ -1,0 +1,44 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11414</md:content-id>
+  <md:title>Диференцијални равенки</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>mk</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>b0c267f2-aa8c-43ba-bc4c-52596981017a</md:uuid>
+<md:slug>diferentsijalni-ravenki</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m43366"/>
+        
+      
+    
+    
+      <col:module document="m43437"/>
+        
+      
+    
+    
+      <col:module document="m43534"/>
+        
+      
+    
+    
+      <col:module document="m43539"/>
+        
+      
+    
+  </col:content>
+</col:collection>
